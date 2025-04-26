@@ -1,0 +1,1 @@
+This project focuses on developing and evaluating three custom Convolutional Neural Network (CNN) models — Basic, Medium, and Deep — for traffic sign recognition tasks. Models were trained and tested on the CIFAR-10 dataset, achieving strong performance across various architectures.
